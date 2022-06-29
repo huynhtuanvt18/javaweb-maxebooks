@@ -1,0 +1,9 @@
+com\fptuni\prj301\demo\model\Book.class
+com\fptuni\prj301\demo\controller\AdminController.class
+com\fptuni\prj301\demo\model\UserSession.class
+com\fptuni\prj301\demo\dbmanager\AccessManager.class
+com\fptuni\prj301\demo\dbmanager\AdminManager.class
+com\fptuni\prj301\demo\controller\AccessController.class
+com\fptuni\prj301\demo\utils\DBUtils.class
+com\fptuni\prj301\demo\controller\BookController.class
+com\fptuni\prj301\demo\dbmanager\BookManager.class
